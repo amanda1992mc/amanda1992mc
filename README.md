@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanda1992mc (Amanda Cavalcanti)
 - 👀 I’m interested in analytics, data science, I love dealing with databases and SQL 
-- 🌱 I’m currently learning python, speacially pandas and numpy
+- 🌱 I’m currently learning python focused on data science
 - 💞️ I’m looking to collaborate on data science projects, analytics projects and new technologies
 - 📫 How to reach me: amandacavalcanti.moraes@gmail.com
 
